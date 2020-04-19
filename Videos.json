@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "configurationVersions": [3],
+        "clusterVersion": "1.193.0.20200418-184701"
+    },
+    "id": "d7353d6a-7820-4456-bdb8-a4790c1481a2",
+    "dashboardMetadata": {
+        "name": "Videos",
+        "shared": false,
+        "owner": "techshadyjk@ruxitlabs.com",
+        "sharingDetails": {
+            "linkShared": true,
+            "published": false
+        },
+        "dashboardFilter": {
+            "timeframe": ""
+        }
+    },
+    "tiles": [{
+        "name": "Markdown",
+        "tileType": "MARKDOWN",
+        "configured": true,
+        "bounds": {
+            "top": 228,
+            "left": 418,
+            "width": 304,
+            "height": 152
+        },
+        "tileFilter": {},
+        "markdown": "# Videos"
+    }]
+}

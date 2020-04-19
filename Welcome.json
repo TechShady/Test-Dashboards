@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "configurationVersions": [3],
+        "clusterVersion": "1.193.0.20200418-184701"
+    },
+    "id": "3931511b-6c48-461a-b311-8371926c75e3",
+    "dashboardMetadata": {
+        "name": "Welcome",
+        "shared": false,
+        "owner": "techshadyjk@ruxitlabs.com",
+        "sharingDetails": {
+            "linkShared": true,
+            "published": false
+        },
+        "dashboardFilter": {
+            "timeframe": ""
+        }
+    },
+    "tiles": [{
+        "name": "Markdown",
+        "tileType": "MARKDOWN",
+        "configured": true,
+        "bounds": {
+            "top": 114,
+            "left": 228,
+            "width": 722,
+            "height": 190
+        },
+        "tileFilter": {},
+        "markdown": "# Welcome to Digital Business Analytics\n\n# [Documentation](#dashboard;id=98868a8a-3bf4-4ca3-a147-6f16a7614504)\n# [Videos](#dashboard;id=d7353d6a-7820-4456-bdb8-a4790c1481a2)\n"
+    }]
+}
